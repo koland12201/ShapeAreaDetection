@@ -1,0 +1,11 @@
+#ignore pdf files
+*.pdf
+
+#MATLAB autosave files
+*.asv
+
+#presentation stuff (if any)
+*.pptx
+*.mp4
+*.png
+img/
